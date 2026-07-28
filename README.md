@@ -2,7 +2,7 @@
 <h3 align="center">A Y1 student from Viet Nam</h3>
 
 - 🔭 I’m currently a student at **Ha Noi University of Science & Technology**, majoring in **Data Science & AI**.
-
+- 🌱 I have a foundation in math, programming, and data structures & algorithms, backed by notable achievements in competitive programming.
 - 📫 How to reach me **phuckhanh1234567@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
