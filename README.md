@@ -24,11 +24,5 @@
 <div align="center">
   <a href="https://codeforces.com/profile/PhcKhnhTapCode">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=PhcKhnhTapCode" alt="PhcKhnhTapCode's Codeforces Stats" />
-  </a>
-    <a href="https://codeforces.com/profile/PhcKhnhTapCode">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=_phckhnh0902_" alt="PhcKhnhTapCode's Codeforces Stats" />
-  </a>
-    <a href="https://codeforces.com/profile/PhcKhnhTapCode">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=__MonK__" alt="PhcKhnhTapCode's Codeforces Stats" />
-  </a>
+
 </div>
